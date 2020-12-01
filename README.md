@@ -1,6 +1,8 @@
-# github-page-vue-demo [参考文章](https://blog.csdn.net/baidu_25464429/article/details/80805237)
+# github-page-vue-demo
 
-## 预览地址[github page地址](https://blog.csdn.net/baidu_25464429/article/details/80805237)
+## [参考文章](https://blog.csdn.net/baidu_25464429/article/details/80805237)
+
+## 预览地址[github page地址]( https://ljzailushang.github.io/githubpage/)
 
 > A Vue.js project
 
